@@ -1,4 +1,4 @@
-# SOC Analysts
+# SOC Automation Part 1
 
 ### What a Basic SOC Lab looks like
 ----
