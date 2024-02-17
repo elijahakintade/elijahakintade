@@ -1,14 +1,12 @@
 # Hello, I'm Elijah
 <a href="https://www.linkedin.com/in/elijah-akintade-8702959b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As a network engineer and a SOC analyst, i specialize in maintaining computer networks to ensure optimal performance and reliability and also foculs on monitoring and analyzing security events and incidents to detect and respond to potential threats targeting the organization's information systems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+By combining my technical knowledge with advanced analytical skills, I aim to contribute to the proactive identification and mitigation of complex security threats, ultimately safeguarding the organization's critical assets and ensuring its resilience against evolving cyber threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
