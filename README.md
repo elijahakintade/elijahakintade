@@ -54,5 +54,5 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 </div>
 
 ## Projects
+- <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>
 - Detection Lab
-- SOC Automation Project
