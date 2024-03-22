@@ -9,7 +9,6 @@ As a network engineer and a SOC analyst, i specialize in maintaining computer ne
 By combining my technical knowledge with advanced analytical skills, I aim to contribute to the proactive identification and mitigation of complex security threats, ultimately safeguarding the organization's critical assets and ensuring its resilience against evolving cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
