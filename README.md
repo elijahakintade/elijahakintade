@@ -20,7 +20,6 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
