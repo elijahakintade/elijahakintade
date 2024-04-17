@@ -12,7 +12,7 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Active Directory Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
