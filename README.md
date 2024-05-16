@@ -13,7 +13,8 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
-| Deploying AD Domain Controllers and configuring networks and Splunk.       | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
+| Deploying AD Domain Controllers and configuring networks.       | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
+| Configuring Splunk to detect attacks, generate alerts, and automate responses.         | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
