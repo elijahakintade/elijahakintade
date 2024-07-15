@@ -16,6 +16,7 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 | Deploying AD Domain Controllers and configuring networks.       | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
 | Configuring Splunk to detect attacks, generate alerts, and automate responses.         | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
 | Security Automation with Tines SOAR    | <a href="https://github.com/elijahakintade/SOAR-EDR-Project/tree/main">SOAR-EDR Project</a>|
+| Case Management with Slack    | <a href="https://github.com/elijahakintade/SOAR-EDR-Project/tree/main">SOAR-EDR Project</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
