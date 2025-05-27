@@ -20,7 +20,7 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/elijahakintade/Active-Directory-Lab-2.0/tree/main">Active Directory Lab 2.0</a>|
 
 ## Tools
 
