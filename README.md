@@ -57,3 +57,4 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 - <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>
 - <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Lab</a>
 - <a href="https://github.com/elijahakintade/SOAR-EDR-Project/tree/main">SOAR-EDR Project</a>
+- <a href="https://github.com/elijahakintade/SOAR-EDR-Project/tree/main">Active Directory Lab 2.0</a>
