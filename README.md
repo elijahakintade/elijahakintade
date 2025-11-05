@@ -12,6 +12,7 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Network Services and Security                 | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Networking-lab-VTP-NAT-DHCP-VTY-ACL</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
 | Deploying AD Domain Controllers and configuring networks.       | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
 | Configuring Splunk to detect attacks, generate alerts, and automate responses.         | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
