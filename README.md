@@ -12,7 +12,7 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Services and Security                 | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Network Services and Security Lab</a>|
+| Network Services and Security                 | <a href="https://github.com/elijahakintade/networking-lab-VTP-NAT-DHCP-VTY-ACL/tree/main">Network Services and Security Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
 | Deploying AD Domain Controllers and configuring networks.       | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
 | Configuring Splunk to detect attacks, generate alerts, and automate responses.         | <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Project</a>|
@@ -55,7 +55,7 @@ By combining my technical knowledge with advanced analytical skills, I aim to co
 </div>
 
 ## Projects
-- <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">Network Services and Security Lab</a>
+- <a href="https://github.com/elijahakintade/networking-lab-VTP-NAT-DHCP-VTY-ACL/tree/main">Network Services and Security Lab</a>
 - <a href="https://github.com/elijahakintade/Detection-Lab/tree/main">SOC Automation Lab</a>
 - <a href="https://github.com/elijahakintade/Active-Directory-Lab/tree/main">Active Directory Lab</a>
 - <a href="https://github.com/elijahakintade/SOAR-EDR-Project/tree/main">SOAR-EDR Project</a>
